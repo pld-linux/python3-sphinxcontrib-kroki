@@ -2,7 +2,7 @@ Summary:	Kroki integration into Sphinx
 Summary(pl.UTF-8):	Integracja Kroki ze Sphinksem
 Name:		python3-sphinxcontrib-kroki
 Version:	1.3.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinxcontrib-kroki/
